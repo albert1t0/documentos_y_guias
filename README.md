@@ -16,7 +16,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IshYnaLe4EA?si=EFBwKfxr_fvIDo9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - [Varios videos sobre las posibilidades de Obsidian](https://youtu.be/RJJaQnumIB8?si=AlvptNsJssM8JHd5)
--  [100 OBSIDIAN TIPS: Beginner to Advanced in 23 Minutes | Obsidian Tutorial](https://www.youtube.com/watch?v=wKNWMBeGCuU)
+-  [100 OBSIDIAN TIPS: Beginner to Advanced in 23 Minutes - Obsidian Tutorial](https://www.youtube.com/watch?v=wKNWMBeGCuU)
 
 ### Para Notion
 
@@ -30,7 +30,7 @@
 - El tambien tiene un curso de pago en: [https://www.logseqmastery.com](https://www.logseqmastery.com)
 ## Método de Zettelkasten 
 
-- [Cómo tomar notas para siempre | Método Zettelkasten explicado con ejemplos visuales](https://www.youtube.com/watch?v=XsAKJLWunOM)
+- [Cómo tomar notas para siempre - Método Zettelkasten explicado con ejemplos visuales](https://www.youtube.com/watch?v=XsAKJLWunOM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsAKJLWunOM?si=rN24t5FRUrk-0ogR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
