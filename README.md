@@ -16,7 +16,21 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IshYnaLe4EA?si=EFBwKfxr_fvIDo9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - [Varios videos sobre las posibilidades de Obsidian](https://youtu.be/RJJaQnumIB8?si=AlvptNsJssM8JHd5)
--  [100 OBSIDIAN TIPS: Beginner to Advanced in 23 Minutes - Obsidian Tutorial](https://www.youtube.com/watch?v=wKNWMBeGCuU)
+-  [100 OBSIDIAN TIPS: Beginner to Advanced in 23 Minutes | Obsidian Tutorial](https://www.youtube.com/watch?v=wKNWMBeGCuU)
+
+### Estos es un playlist de Nick Milo que trabaj mucho el PKM con Obsidian
+
+- [Obsidian for Begineers](https://youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd&si=W93UCjeFZg3nv10_)
+- Aquí se encuentra su curso de pago, [Flight School 2.5](https://www.linkingyourthinking.com/obsidian-flight-school)
+	- Es una bóveda de Obsidian donde presenta el curso aquí puedes ver el [VIDEO DE REFERENCIA](https://player.vimeo.com/video/662459453)
+- Este es su sitio donde trabaja estos temas:
+	- [Linking your Thinking](https://www.linkingyourthinking.com/)
+
+#### Obsidian: The Most Powerful Learning Technology in History?
+
+- Este es un profesor de Data Science que ha escrito bastante de Python y presenta a Obsidian como un el mejor software para gestiona el parendizaje personal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kfxz2fxtxSU?si=eM8hOTAHE150c8g6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Para Notion
 
@@ -30,7 +44,7 @@
 - El tambien tiene un curso de pago en: [https://www.logseqmastery.com](https://www.logseqmastery.com)
 ## Método de Zettelkasten 
 
-- [Cómo tomar notas para siempre - Método Zettelkasten explicado con ejemplos visuales](https://www.youtube.com/watch?v=XsAKJLWunOM)
+- [Cómo tomar notas para siempre | Método Zettelkasten explicado con ejemplos visuales](https://www.youtube.com/watch?v=XsAKJLWunOM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsAKJLWunOM?si=rN24t5FRUrk-0ogR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -48,5 +62,4 @@
 3. [How To Use Zotero With Obsidian For The Best Note-taking Experience](https://ricraftis.au/obsidian/how-to-integrate-zotero-with-obsidian/)
 4. [How I Read Research Papers with Obsidian and Zotero](https://bagerbach.com/blog/how-i-read-research-papers-with-obsidian-and-zotero)
 5. [Step-by-Step: Adding Zotero Footnotes and Citations in Obsidian](https://ricraftis.au/obsidian/step-by-step-adding-zotero-footnotes-and-citations-in-obsidian/)
-
 
