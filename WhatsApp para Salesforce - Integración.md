@@ -44,18 +44,17 @@ Tuvis es una solución especializada para integrar aplicaciones de mensajería e
     *   Debe confirmarse si las funciones avanzadas de IA, DLP, archivado, Salesforce Flow y llamadas están incluidas en el mismo plan o se licencian como módulos separados.
 *   **Precios:** No publicados en la web oficial consultada. La referencia previa estimada era de **$30 a $45 USD por usuario/mes**, pero debe validarse comercialmente con Tuvis porque la web actual opera bajo solicitud de demo/cotización.
 
-![Pasted image 20260514140124.png](./00%20Sistema/_resources/Pasted%20image%2020260514140124.png)
+![[Pasted image 20260514140124.png|Pasted image 20260514140124.png]]
 
 - Adicionalmente puede requerirse el pago del servicio de mensajería/API de WhatsApp Business, según el esquema contratado.
-- ![Presentación de Tuvis](https://youtu.be/zEkpXAi3JWA?si=IE_4MQKkRA71y7s6)
+- [Presentación de Tuvis](https://youtu.be/zEkpXAi3JWA?si=IE_4MQKkRA71y7s6)
 
- - ![Demo tuvis](https://youtu.be/bGkYU-B8m4Q?si=ySYRAN75rVixXvFP)
-- [Demostración Tuvis - Traanscripción](./Demostraci%C3%B3n%20Tuvis%20-%20Traanscripci%C3%B3n.md)
+ - [Demo tuvis](https://youtu.be/bGkYU-B8m4Q?si=ySYRAN75rVixXvFP)
+- [[Demostración Tuvis - Traanscripción|Demostración Tuvis - Traanscripción]]
 
 ### 2. Callbell
-![Como funciona Callbell](https://www.youtube.com/watch?v=0tAVNEVWHPI)
-
-- [Video desmostración de Callbell - Transcripción](./Video%20desmostraci%C3%B3n%20de%20Callbell%20-%20Transcripci%C3%B3n.md).
+[Como funciona Callbell](https://www.youtube.com/watch?v=0tAVNEVWHPI)
+- [[Video desmostración de Callbell - Transcripción|Video desmostración de Callbell - Transcripción]].
 
 Callbell es una plataforma SaaS orientada a que equipos de ventas, soporte o atención al cliente gestionen conversaciones desde una bandeja compartida multiagente. En su sitio web se presenta como una plataforma CRM conversacional para **WhatsApp, Instagram Direct, Facebook Messenger y Telegram**, con foco en colaboración, automatización y métricas para equipos.
 
@@ -139,7 +138,7 @@ QuickReply.ai es una plataforma de automatización conversacional orientada prin
     *   **WhatsApp API:** QuickReply aclara que WhatsApp no cobra una mensualidad fija por la API, pero sí existen cargos por mensajes plantilla y costos de proveedor/plataforma.
 *   **Señal de adopción:** La web menciona más de 1000 negocios/merchants que usan QuickReply.ai; la página de inbox omnicanal menciona más de 1500 marcas en 29 países.
 
-- ![Video demostración](https://youtu.be/5Np9wGwrDxo?si=0VqVPMiAlRZPrfre)
+- [Video demostración](https://youtu.be/5Np9wGwrDxo?si=0VqVPMiAlRZPrfre)
 
 ### 4. WATI (wati.io)
 WATI es una plataforma de mensajería empresarial basada en **WhatsApp Business API**, orientada a marketing, ventas y soporte. Su propuesta combina bandeja compartida, automatización no-code, campañas, IA conversacional, integraciones CRM y herramientas para operar WhatsApp a escala.
@@ -181,11 +180,10 @@ WATI es una plataforma de mensajería empresarial basada en **WhatsApp Business 
 *   **Prueba:** La página de integración con Salesforce ofrece prueba gratuita de 7 días; otras páginas de WATI mencionan prueba gratuita sin tarjeta de crédito.
 *   **Señal de adopción:** WATI declara más de **16.000 clientes** en más de **180 países**, más de **10B mensajes procesados**, 99,9% de uptime histórico y rating aproximado de 4,6/5 en G2.
 
-- ![Información de Leads en Wati](https://www.youtube.com/watch?v=RDFzqSQ4wgE)
+- [Información de Leads en Wati](https://www.youtube.com/watch?v=RDFzqSQ4wgE)
 ### 5. Automatización utilizando Twilio
-![Salesforce WhatsApp integration](https://www.youtube.com/watch?v=OL1weB1iLGY)
-
-- [Salesforce e integración WhatsApp - transcripción](./Salesforce%20e%20integraci%C3%B3n%20WhatsApp%20-%20transcripci%C3%B3n.md)
+- [Salesforce WhatsApp integration](https://www.youtube.com/watch?v=OL1weB1iLGY)
+- [[Salesforce e integración WhatsApp - transcripción|Salesforce e integración WhatsApp - transcripción]]
 
 La automatización utilizando Twilio corresponde a una integración personalizada entre Salesforce y WhatsApp Business mediante APIs. A diferencia de soluciones SaaS como Tuvis, Callbell o QuickReply.ai, esta alternativa requiere configuración técnica en Salesforce, desarrollo Apex y uso de Twilio como proveedor de mensajería WhatsApp.
 
@@ -250,34 +248,35 @@ Es un método nativo y gratuito que utiliza la funcionalidad "Clic para chatear"
 *   **Precios:** **Gratis** (solo requiere configuración en el Object Manager de Salesforce).
 
 ## Referencias
-1. https://youtu.be/bGkYU-B8m4Q?si=d6SvSRnDDCnfWHbM
-2. https://youtu.be/0tAVNEVWHPI?si=Q8GNT09awHpSdznO
-3. https://youtu.be/5Np9wGwrDxo?si=ldgs-NzCj3TM9v7G
-4. https://www.wati.io/
-5. https://www.callbell.eu/en/
-6. https://www.callbell.eu/en/pricing/
-7. https://www.callbell.eu/en/whatsapp-crm-platform/
-8. https://docs.callbell.eu/
-9. https://zapier.com/apps/callbell/integrations/salesforce
-10. https://tuvis.com/es/
-11. https://tuvis.com/es/channels/salesforce/
-12. https://tuvis.com/es/productivity/
-13. https://tuvis.com/es/security/
-14. https://tuvis.com/es/compliance/
-15. https://www.quickreply.ai/
-16. https://www.quickreply.ai/pricing
-17. https://www.quickreply.ai/integrations
-18. https://www.quickreply.ai/integrations/salesforce-crm
-19. https://www.quickreply.ai/whatsapp-salesforce-integration-pricing
-20. https://www.quickreply.ai/whatsapp-salesforce-marketing-cloud
-21. https://www.quickreply.ai/omnichannel-messaging-inbox
-22. https://youtu.be/OL1weB1iLGY
-23. https://www.twilio.com/en-us/messaging/channels/whatsapp
-24. https://www.twilio.com/en-us/whatsapp/pricing
-25. https://www.twilio.com/docs/whatsapp
-26. https://www.wati.io/
-27. https://www.wati.io/pricing/
-28. https://www.wati.io/saleforce-integration/
-29. https://www.wati.io/whatsapp-business-api/
-30. https://www.wati.io/shared-team-Inbox/
-31. https://www.wati.io/no-code-chatbot/
+
+1. https://www.wati.io/
+2. https://www.callbell.eu/en/
+3. https://www.callbell.eu/en/pricing/
+4. https://www.callbell.eu/en/whatsapp-crm-platform/
+5. https://docs.callbell.eu/
+6. https://zapier.com/apps/callbell/integrations/salesforce
+7. https://tuvis.com/es/
+8. https://tuvis.com/es/channels/salesforce/
+9. https://tuvis.com/es/productivity/
+10. https://tuvis.com/es/security/
+11. https://tuvis.com/es/compliance/
+12. https://www.quickreply.ai/
+13. https://www.quickreply.ai/pricing
+14. https://www.quickreply.ai/integrations
+15. https://www.quickreply.ai/integrations/salesforce-crm
+16. https://www.quickreply.ai/whatsapp-salesforce-integration-pricing
+17. https://www.quickreply.ai/whatsapp-salesforce-marketing-cloud
+18. https://www.quickreply.ai/omnichannel-messaging-inbox
+19. https://youtu.be/OL1weB1iLGY
+20. https://www.twilio.com/en-us/messaging/channels/whatsapp
+21. https://www.twilio.com/en-us/whatsapp/pricing
+22. https://www.twilio.com/docs/whatsapp
+23. https://www.wati.io/
+24. https://www.wati.io/pricing/
+25. https://www.wati.io/saleforce-integration/
+26. https://www.wati.io/whatsapp-business-api/
+27. https://www.wati.io/shared-team-Inbox/
+28. https://www.wati.io/no-code-chatbot/
+29. https://youtu.be/bGkYU-B8m4Q?si=d6SvSRnDDCnfWHbM
+30. https://youtu.be/0tAVNEVWHPI?si=Q8GNT09awHpSdznO
+31. https://youtu.be/5Np9wGwrDxo?si=ldgs-NzCj3TM9v7G
